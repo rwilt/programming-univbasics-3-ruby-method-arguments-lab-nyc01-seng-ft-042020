@@ -19,7 +19,7 @@ at the end of this lesson, but try to solve these on your own first.
 ## Define a Method That Takes in and Uses an Parameter
 
 def introduction(name)
-  put " Hi, my name is #{name}."
+  puts " Hi, my name is #{name}."
 end
 
 
