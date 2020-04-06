@@ -19,9 +19,8 @@ at the end of this lesson, but try to solve these on your own first.
 ## Define a Method That Takes in and Uses an Parameter
 
 def introduction(name)
-  puts " Hi, my name is #{name}."
+  put " Hi, my name is #{name}."
 end
-
 
 
 def introduction_with_language(name,language)
